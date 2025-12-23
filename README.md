@@ -72,17 +72,21 @@
     <td align="center">
       <strong>🌙 Dark Mode</strong>
       <br/>
-      <img src="https://via.placeholder.com/400x250/0f0f14/8b5cf6?text=Dark+Mode+Preview" alt="Dark Mode" width="400"/>
+      <img src="public\images\Screenshot 2025-12-23 165817.png" alt="Dark Mode" width="400"/>
     </td>
     <td align="center">
       <strong>☀️ Light Mode</strong>
       <br/>
-      <img src="https://via.placeholder.com/400x250/f8fafc/7c3aed?text=Light+Mode+Preview" alt="Light Mode" width="400"/>
+      <img src="public\images\Screenshot 2025-12-23 165747.png" alt="Light Mode" width="400"/>
+    </td>
+    <td align="center">
+      <strong>Stream</strong>
+      <br/>
+      <img src="public\images\Screenshot 2025-12-23 170151.png" alt="Stream" width="400"/>
     </td>
   </tr>
 </table>
 
-> 💡 **Tip**: Replace the placeholder images above with actual screenshots of your app!
 
 ---
 
