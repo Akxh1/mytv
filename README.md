@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 MyTV - Modern IPTV Streaming App
+# 📺 MyTV - IPTV Streaming
 
 ### IPTV streaming application built with React
 
