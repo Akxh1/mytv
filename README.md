@@ -4,6 +4,11 @@
 
 ### IPTV streaming application built with React
 
+#### So let me share a small backstory that led me to build this application. I was actually browsing through local channels in our home TV. Specifically Shakthi/Sirasa for the daily 8:30 pm news.
+​But honestly? I was fed up with the PEO TV load times. It felt like I was waiting forever just for a channel to start. Plus, I’m often away from home and don't want to be glued to the living room just to catch the news.
+​I wanted a way to watch the local channels I already have access to on my laptop or phone without having to pay for extra streaming services or subscriptions. I figured there had to be a better way to get those public channels instantly, wherever I am.
+​That’s why I built this to cut out the lag and keep the stream simple, fast, and free for the channels we all know.
+
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-7.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![HLS.js](https://img.shields.io/badge/HLS.js-1.6-FF6B6B?style=for-the-badge)](https://github.com/video-dev/hls.js/)
